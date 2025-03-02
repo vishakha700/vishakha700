@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Vishakha Jaiswal
-🎓 **B.Sc. Biology Graduate** | 📊 **Aspiring Data Analyst** | 💻 **Lifelong Learner**
+🎓 **B.Sc.  Graduate** | 📊 **Aspiring Data Analyst** | 💻 **Lifelong Learner**
 
 Passionate about turning data into actionable insights and creating impactful visualizations. Exploring the intersection of data and creativity one project at a time!
 ## About Me
