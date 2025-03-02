@@ -13,9 +13,7 @@ Passionate about turning data into actionable insights and creating impactful vi
 - **Tools:** Excel, Power BI, Canva
 - **Other:** Data Visualization, Data Cleaning, Dashboard Creation
 ## Get in Touch
-- 💼 **LinkedIn www.linkedin.com/in/
-vishakha-jaiswal-6a7305332**
-*
+- 💼 **LinkedIn https://www.linkedin.com/in/vishakha-jaiswal-6a7305332
 - 📧 **Email:** vishakha8503@gmail.com
 
 ## Fun Fact
