@@ -7,11 +7,11 @@ Currently, I am working on multiple real-world projects to sharpen my practical 
 
 ## About Me
 
-🔍 Actively learning Python, Power BI, Excel, and SQL to strengthen my data analytics toolkit.
-📊 Working on multiple projects involving data cleaning, visualization, and dashboard creation.
-🌟 Committed to continuous improvement and sharing my learning journey with the community.
-🎯 Focused on building a strong foundation to contribute to impactful, data-driven solutions.
-🚀 Open to internships, freelance opportunities, and entry-level roles in data analytics.
+-🔍 Actively learning Python, Power BI, Excel, and SQL to strengthen my data analytics toolkit.
+-📊 Working on multiple projects involving data cleaning, visualization, and dashboard creation.
+-🌟 Committed to continuous improvement and sharing my learning journey with the community.
+-🎯 Focused on building a strong foundation to contribute to impactful, data-driven solutions.
+-🚀 Open to internships, freelance opportunities, and entry-level roles in data analytics.
   
 ## Skills
 
