@@ -1,24 +1,39 @@
 # Hi there! 👋 I'm Vishakha Jaiswal
 🎓 **B.Sc.  Graduate** | 📊 **Aspiring Data Analyst** | 💻 **Lifelong Learner**
 
-Passionate about turning data into actionable insights and creating impactful visualizations. Exploring the intersection of data and creativity one project at a time!
+I am an enthusiastic and dedicated data analytics learner, actively building my skills through hands-on projects and continuous learning. With a strong focus on transforming raw data into meaningful insights, I’m developing expertise in data cleaning, visualization, and analysis to support data-driven decision-making.
+
+Currently, I am working on multiple real-world projects to sharpen my practical understanding of data tools and techniques. I am passionate about growing in the field of data analytics and contributing to impactful projects that drive meaningful outcomes. I am also actively seeking opportunities to apply my skills in real-world environments and collaborate on data-driven initiatives.
+
 ## About Me
-- 🔍 I’m currently learning **Data Analytics** using Python, Power BI, Excel and SQL.
-- 📈 I love working on projects that involve **data cleaning, visualization, and analysis**.
-- 🌟 I believe in continuous learning and enjoy sharing my journey on LinkedIn.
-- 🎯 My goal is to contribute to impactful data-driven projects.
-- 
+
+🔍 Actively learning Python, Power BI, Excel, and SQL to strengthen my data analytics toolkit.
+📊 Working on multiple projects involving data cleaning, visualization, and dashboard creation.
+🌟 Committed to continuous improvement and sharing my learning journey with the community.
+🎯 Focused on building a strong foundation to contribute to impactful, data-driven solutions.
+🚀 Open to internships, freelance opportunities, and entry-level roles in data analytics.
+  
 ## Skills
-- **Programming:** Python (pandas, matplotlib, seaborn), SQL
-- **Tools:** Excel, Power BI, Canva
-- **Other:** Data Visualization, Data Cleaning, Dashboard Creation
+
+Programming: Python (pandas, matplotlib, seaborn), SQL
+Tools: Excel, Power BI, Canva
+Core Competencies:
+
+Data Cleaning & Preparation
+
+Data Visualization & Storytelling
+
+Dashboard Creation
+
+Exploratory Data Analysis (EDA)
+
+Data-Driven Decision Making
+
 ## Get in Touch
 - 💼 **LinkedIn https://www.linkedin.com/in/vishakha-jaiswal-6a7305332
 - 📧 **Email:** vishakha8503@gmail.com
 
-## Fun Fact
-🎨 I enjoy designing presentations and visuals in Canva when I'm not analyzing data!
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 <!---
 vishakha700/vishakha700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
